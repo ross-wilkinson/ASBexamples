@@ -1,4 +1,6 @@
 %% Metabolic Power Calculation
+% Calculate metabolic power during final two minute steady-state period
+% from a .csv output file from a Parvo Gas Analyzer
 
 %% Load Parvo data
 filename = '/Users/rosswilkinson/Documents/Postdoc/Specialized/Seat Tube Angle/data/MTB_geo_pilot_RW_vo2.xlsx';
